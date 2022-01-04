@@ -1,0 +1,35 @@
+/* #footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+} */
+
+.landing-image-container {
+  margin-top: 10%;
+  float:right;
+  width: 50%;
+  z-index: -1;
+}
+
+.text-container {
+  float: left;
+  margin-top: 100px;
+}
+
+.description-container {
+  float: left;
+  width: 400px;
+}
+
+
+
+.center-text {
+  margin: auto;
+  width: 50%;
+}
+
+.fa-2x {
+  color: #2f2e41;
+  margin-left: 40%;
+}
+
